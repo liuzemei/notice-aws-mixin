@@ -1,0 +1,23 @@
+{
+  "name": "notice-mixin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuzemei/notice-aws-mixin.git"
+  },
+  "keywords": [],
+  "author": "Neo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuzemei/notice-aws-mixin/issues"
+  },
+  "homepage": "https://github.com/liuzemei/notice-aws-mixin#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
